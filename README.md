@@ -43,6 +43,7 @@
 | <kbd>⌘</kbd> <kbd>D</kbd> | Duplicate |
 | <kbd>⌘</kbd> <kbd>A</kbd> | Select All |
 | <kbd>⌘</kbd> <kbd>:</kbd> | Show Spelling and Grammar |
+| <kbd>⏎</kbd> | Edit Currently Selected Layer |
 
 ### Insert
 
