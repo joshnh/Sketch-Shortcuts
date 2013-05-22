@@ -10,6 +10,13 @@
 | <kbd>⌘</kbd> <kbd>Q</kbd> | Quit Sketch |
 | <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>Q</kbd> | Quit and Close All Windows |
 
+### General
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>Space</kbd> | Hand Tool |
+
+
 ### File
 
 | Shortcut | Description |
@@ -82,9 +89,3 @@
 | <kbd>⌃</kbd> <kbd>H</kbd> | Toggle Selection Handles |
 | <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>T</kbd> | Toggle Toolbar |
 | <kbd>⌃</kbd> <kbd>⌘</kbd> <kbd>F</kbd> | Enter Full Screen |
-
-### Other
-
-| Shortcut | Description |
-| -------- | ----------- |
-| <kbd>Space</kbd> | Hand Tool |
