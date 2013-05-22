@@ -49,7 +49,7 @@
 | <kbd>U</kbd> | Rounded Rectangle |
 | <kbd>T</kbd> | Text |
 
-### Insert
+### Format
 
 | Shortcut | Description |
 | -------- | ----------- |
