@@ -82,3 +82,9 @@
 | <kbd>⌃</kbd> <kbd>H</kbd> | Toggle Selection Handles |
 | <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>T</kbd> | Toggle Toolbar |
 | <kbd>⌃</kbd> <kbd>⌘</kbd> <kbd>F</kbd> | Enter Full Screen |
+
+### Other
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>Space</kbd> | Hand Tool |
