@@ -15,6 +15,11 @@
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>Space</kbd> | Hand Tool |
+| <kbd>Z</kbd> | Zoom Tool |
+| <kbd>Escape</kbd> | Exit Current Tool |
+| <kbd>⌘</kbd> <kbd>2</kbd> | Zoom to Selected Layers |
+| <kbd>⌘</kbd> <kbd>3</kbd> | Scroll to Selected Layers |
+| <kbd>Tab</kbd> / <kbd>⇧</kbd> <kbd>Tab</kbd> | Cycle Through Layers in the Current Group |
 
 
 ### File
