@@ -16,6 +16,7 @@
 | -------- | ----------- |
 | <kbd>Tab</kbd> / <kbd>⇧</kbd> <kbd>Tab</kbd> | Cycle Through Layers in the Current Group |
 | <kbd>⌘</kbd> <kbd>R</kbd> | Rename Current Layer/Group |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>H</kbd> | Hide/Show Layer/Group |
 | <kbd>⏎</kbd> | Enter Group |
 | <kbd>Escape</kbd> | Collapse Current Group |
 
