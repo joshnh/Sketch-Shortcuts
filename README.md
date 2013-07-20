@@ -10,6 +10,15 @@
 | <kbd>⌘</kbd> <kbd>Q</kbd> | Quit Sketch |
 | <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>Q</kbd> | Quit and Close All Windows |
 
+### Navigate Layers
+
+| Shortcut | Description |
+| -------- | ----------- |
+| <kbd>Tab</kbd> / <kbd>⇧</kbd> <kbd>Tab</kbd> | Cycle Through Layers in the Current Group |
+| <kbd>⌘</kbd> <kbd>R</kbd> | Rename Current Layer/Group |
+| <kbd>⏎</kbd> | Enter Group |
+| <kbd>Escape</kbd> | Collapse Current Group |
+
 ### General
 
 | Shortcut | Description |
@@ -19,7 +28,7 @@
 | <kbd>Escape</kbd> | Exit Current Tool |
 | <kbd>⌘</kbd> <kbd>2</kbd> | Zoom to Selected Layers |
 | <kbd>⌘</kbd> <kbd>3</kbd> | Scroll to Selected Layers |
-| <kbd>Tab</kbd> / <kbd>⇧</kbd> <kbd>Tab</kbd> | Cycle Through Layers in the Current Group |
+
 
 
 ### File
