@@ -10,12 +10,14 @@
 | <kbd>⌘</kbd> <kbd>Q</kbd> | Quit Sketch |
 | <kbd>⌥</kbd> <kbd>⌘</kbd> <kbd>Q</kbd> | Quit and Close All Windows |
 
-### Navigate Layers
+### Layers
 
 | Shortcut | Description |
 | -------- | ----------- |
 | <kbd>Tab</kbd> / <kbd>⇧</kbd> <kbd>Tab</kbd> | Cycle Through Layers in the Current Group |
 | <kbd>⌘</kbd> <kbd>R</kbd> | Rename Current Layer/Group |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>H</kbd> | Hide/Show Layer/Group |
+| <kbd>⌘</kbd> <kbd>⇧</kbd> <kbd>L</kbd> |  Lock/Unlock Layer/Group |
 | <kbd>⏎</kbd> | Enter Group |
 | <kbd>Escape</kbd> | Collapse Current Group |
 
@@ -58,6 +60,7 @@
 | <kbd>⌘</kbd> <kbd>A</kbd> | Select All |
 | <kbd>⌘</kbd> <kbd>:</kbd> | Show Spelling and Grammar |
 | <kbd>⏎</kbd> | Edit Currently Selected Layer |
+| <kbd>⌃</kbd> <kbd>C</kbd>  | Clone colour |
 
 ### Insert
 
